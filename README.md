@@ -3,6 +3,8 @@
 ## Descriptions
 - An EQ ported from Oneplus 8 Visible
 - Working with enforcing or permissive
+- It's still using UI from Razer Phone 2 for now
+- It doesn't support ACDB because using effect proxy
 
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
@@ -29,6 +31,5 @@
 - Use Audio Compatibility Patch if you encounter processing problem
 
 ## Warning!
-- It doesn't support ACDB because using effect proxy
 - Reporting without proper logcats and magisk install logs is ignored!
 
