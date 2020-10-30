@@ -10,7 +10,7 @@
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
 ## Requirements
-- Android 10 or 11 64 bit devices
+- Android 8, 9, 10 or 11 64 bit devices
 - Magisk installed
 - If you can install and open this [Signature Test App](https://t.me/audioryukimods/24) normally, you are good to go.
 - Don't use with another Dolby module!
@@ -26,8 +26,7 @@
 - Audio Compatibility Patch
 
 ## Troubleshooting
-- If Dolby force close, just reinstall again.
-- Make sure /system/etc/vintf/manifest.xml is patched correctly.
+- It will take sometime after reboot until UI can be opened. Just be patient.
 - Use Audio Compatibility Patch if you encounter processing problem
 
 ## Warning!
