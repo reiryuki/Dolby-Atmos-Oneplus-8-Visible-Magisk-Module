@@ -28,7 +28,7 @@
 - It will take sometime after reboot until UI can be opened. Just be patient.
 - Use Audio Compatibility Patch if you encounter processing problem
 
-## Warning!
+# WARNING!!!
 - Reporting without proper logcats and magisk install logs is ignored!
 
 Tap "Releases" bellow
