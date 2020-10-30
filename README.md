@@ -26,6 +26,7 @@
 
 ## Troubleshooting
 - It will take sometime after reboot until UI can be opened. Just be patient.
+- If something wrong with Dolby, delete /data/data/com.dolby.daxappui  and com.dolby.daxservice folder, reboot
 - Use Audio Compatibility Patch if you encounter processing problem
 
 # WARNING!!!
