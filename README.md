@@ -32,3 +32,4 @@
 ## Warning!
 - Reporting without proper logcats and magisk install logs is ignored!
 
+Tap "Releases" bellow
