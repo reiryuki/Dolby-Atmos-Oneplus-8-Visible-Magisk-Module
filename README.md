@@ -3,7 +3,7 @@
 ## Descriptions
 - An EQ ported from Oneplus 8 Visible
 - Working with enforcing or permissive
-- It's still using UI from other for now. So it will buggy sometimes.
+- It's still using UI from other for now. So it will buggy.
 - It doesn't support ACDB because using effect proxy
 
 ## Tested on
