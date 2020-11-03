@@ -4,7 +4,7 @@
 - An EQ ported from OnePlus 8 Visible.
 - Requires standard Android signature to grant android.permission.INTERACT_ACROSS_USERS_FULL.
 - Working with enforcing or permissive.
-- It's still using UI from other for now.
+- It's still using UI from another for now.
 - It doesn't support ACDB because using effect proxy.
 
 ## Tested on
