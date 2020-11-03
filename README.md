@@ -29,7 +29,7 @@
 - Use Audio Compatibility Patch if you encounter processing problem.
 
 # Attention!
-Reporting without send full logcats and install process logs is ignored!
+- Reporting without send full logcats and install process logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 Tap "Releases" bellow
