@@ -17,6 +17,7 @@
 - Don't use with another Dolby module!
 
 ## Installation Guide
+- Don't use ACDB!
 - Remove another Dolby module
 - Reboot
 - Install via Magisk Manager only
