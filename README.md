@@ -6,6 +6,7 @@
 - Working with enforcing or permissive.
 - It's still using UI from another for now.
 - It doesn't support ACDB because using effect proxy.
+- Not working with dynamic partitions.
 
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
