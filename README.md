@@ -1,4 +1,4 @@
-# Dolby-Atmos-Oneplus-8-Visible-Magisk-Module
+# Dolby Atmos OnePlus 8 Visible Magisk Module
 
 ## Descriptions
 - An EQ ported from OnePlus 8 Visible.
