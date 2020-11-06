@@ -26,11 +26,11 @@
 
 ## Optional
 - AML 4.0 supported for uses multiple audio mods
+- You can rename other dax-default to use higher bass enhancer boost.
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again.
 - Use Audio Compatibility Patch if you encounter processing problem.
-- Bass enhancer boost is modified. If you don't like it, just rename dax-default.orig_fix to dax-default.xml
 
 # Attention!
 - Reporting without send full logcats and install process logs is ignored!
