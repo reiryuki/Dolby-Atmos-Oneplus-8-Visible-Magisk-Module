@@ -15,7 +15,6 @@
 - Magisk installed
 - Pass this [Signature Test App](https://t.me/audioryukimods/24)
 - If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
-- Don't use with another Dolby module!
 
 ## Installation Guide
 - Don't use ACDB!
