@@ -28,8 +28,11 @@
 ## Troubleshooting
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
   Run at Terminal Emulator before flash:
+
   `su`
+
   `setprop dolby.force.permissive 1`
+
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
 - Use Audio Compatibility Patch if you encounter processing problem.
