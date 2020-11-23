@@ -23,7 +23,7 @@
 
 ## Optional
 - If using multiple audio mods, use Audio Modification Library module.
-- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/
+- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot.
 
 ## Troubleshooting
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
