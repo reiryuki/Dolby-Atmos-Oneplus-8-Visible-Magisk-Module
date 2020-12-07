@@ -51,6 +51,6 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 
 
-              -- Enjoy the Atmos 🎧 --
+       -- Enjoy the Atmos 🎧 --
 
 
