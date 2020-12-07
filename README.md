@@ -21,10 +21,10 @@
 - Reboot
 
 ## Optional
-- If using multiple audio mods, use Audio Modification Library module.
 - You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot.
 
 ## Troubleshooting
+- Install Audio Modification Library module if using multiple audio mods.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
   Run at Terminal Emulator before flash:
@@ -35,7 +35,7 @@
 
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
-- Use Audio Compatibility Patch if you encounter processing problem.
+- Install Audio Compatibility Patch if you encounter processing problem.
 
 # Attention!
 - Reporting without send full logcats and install process logs is ignored!
@@ -51,6 +51,6 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 
 
-       -- Enjoy the Atmos 🎧 --
+          -- Enjoy the Atmos 🎧 --
 
 
