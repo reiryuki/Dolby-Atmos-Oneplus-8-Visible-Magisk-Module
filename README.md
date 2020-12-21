@@ -21,7 +21,7 @@
 - Reboot
 
 ## Optional
-- You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot.
+- You can rename dax-default extension to .xml to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Rename another .xml to .mod. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot.
 - You can use DaxUI instead of OPSoundTuner. To enable that, run at Terminal Emulator before flashing
   the module:
 
