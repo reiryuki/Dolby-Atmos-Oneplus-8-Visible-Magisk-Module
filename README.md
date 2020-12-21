@@ -35,7 +35,7 @@
 
   After that, flash (reflash) the module.
 
-## Troubleshooting
+## Troubleshootings
 - If you got problem while connecting Bluetooth audio, then use DaxUI instead. See "Optional" section.
 - Install Audio Modification Library module if using multiple audio mods.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
