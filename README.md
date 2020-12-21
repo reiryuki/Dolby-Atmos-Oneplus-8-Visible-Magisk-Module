@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An EQ ported from OnePlus 8 Visible (IN2015).
-- It doesn't support ACDB because using effect proxy.
+- It doesn't support ACDB module because using effect proxy.
 - Not working with dynamic partitions.
 
 ## Tested on
@@ -14,7 +14,7 @@
 - Magisk installed
 
 ## Installation Guide
-- Don't use ACDB!
+- Don't use ACDB module!
 - Remove another Dolby module
 - Reboot
 - Install via Magisk Manager only
@@ -22,8 +22,17 @@
 
 ## Optional
 - You can rename dax-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot.
+- You can use DaxUI instead of OPSoundTuner. To enable that, run at Terminal Emulator before flashing
+  the module:
+
+  `su`
+
+  `setprop dolby.force.daxui 1`
+
+  After that, flash (reflash) the module.
 
 ## Troubleshooting
+- If you got problem while connecting Bluetooth audio, then use DaxUI instead. See "Optional" section.
 - Install Audio Modification Library module if using multiple audio mods.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
 - If installation failed with error "No space left on device", that is mean you using dynamic partitions.
@@ -36,7 +45,7 @@
 
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
-- Install Audio Compatibility Patch if you encounter processing problem.
+- Install Audio Compatibility Patch if you encounter (deep buffer) audio processing problem.
 
 # Attention!
 - Reporting without send full logcats and install process logs is ignored!
