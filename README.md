@@ -5,6 +5,10 @@
 - It doesn't support ACDB module because using effect proxy.
 - Not working with dynamic partitions.
 
+## Screenshots
+- [OPSoundTuner](https://t.me/audioryukimods/1259)
+- [DaxUI](https://t.me/audioryukimods/786)
+
 ## Tested on
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
