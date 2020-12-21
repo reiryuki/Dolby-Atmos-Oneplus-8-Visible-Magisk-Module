@@ -27,7 +27,7 @@
 
   `su`
 
-  `setprop dolby.force.daxui 1`
+  `setprop` `dolby.force.daxui` `1`
 
   After that, flash (reflash) the module.
 
@@ -41,7 +41,7 @@
 
   `su`
 
-  `setprop dolby.force.permissive 1`
+  `setprop` `dolby.force.permissive` `1`
 
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
