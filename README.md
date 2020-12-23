@@ -21,7 +21,7 @@
 - Don't use ACDB module!
 - Remove another Dolby module
 - Reboot
-- If you ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (See Optional section)
+- If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (See Optional section)
 - Install via Magisk Manager only
 - Reboot
 
