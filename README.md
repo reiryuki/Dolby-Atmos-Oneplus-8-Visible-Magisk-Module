@@ -6,7 +6,7 @@
 - Not working with dynamic partitions (except dolby dms 2.0 is already present in ROM manifest.xml)
 
 ## Screenshots
-- [OPSoundTuner](https://t.me/audioryukimods/1259)
+- [OPSoundTuner](https://t.me/modsandco/6844)
 - [DaxUI](https://t.me/audioryukimods/786)
 
 ## Tested on
