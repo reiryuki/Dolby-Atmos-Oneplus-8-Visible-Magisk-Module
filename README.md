@@ -65,7 +65,7 @@
 
 ## Troubleshootings
 - If you want to enable OPSoundTuner dark mode while activating your dark theme, go to your Developer Settings, then turn on "Override force-dark".
-- If you got problem while connecting Bluetooth audio, then use DaxUI instead. See "Optional" section.
+- If you got problem while connecting Bluetooth audio, then use DaxUI instead. See "Optional" section. Actually, OPSoundTuner is only for Bluetooth A2DP offload supported device.
 - If you using Riru EdXposed or Taichi Magisk Module, exclude Dolby apps from their list to prevent SE policy patch denials.
 - Install Audio Modification Library module if using multiple audio mods.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
