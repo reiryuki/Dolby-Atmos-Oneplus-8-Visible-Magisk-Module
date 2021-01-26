@@ -69,7 +69,7 @@
 - If you using Riru EdXposed or Taichi Magisk Module, exclude Dolby apps from their list to prevent SE policy patch denials.
 - Install Audio Modification Library module if using multiple audio mods.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
-- If installation failed with error "No space left on device", that is mean you using dynamic partitions.
+- If installation failed with error "Read-only file system" or "No space left on device", that is mean you using dynamic partitions.
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
   Run at Terminal Emulator before flash:
 
