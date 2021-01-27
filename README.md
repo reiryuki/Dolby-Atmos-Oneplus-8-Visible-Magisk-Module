@@ -86,6 +86,12 @@
 - Reporting without send full logcats and install process logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
+## Credits
+- @aquahol for keysigner
+- @guitardedhero & @BanCodrut for module reference
+- @aip_x for helps
+- All of supports
+
 ## Telegram
 - https://t.me/audioryukimods
 - https://t.me/modsandco
