@@ -79,7 +79,6 @@
 
 - If Dolby force close, just reinstall again
 - Make sure manifest.xml is patched correctly
-- Install Audio Compatibility Patch if you encounter (deep buffer) audio processing problem. But usually no need.
 - If anything goes wrong, see your logcats
   - "CANNOT LINK EXECUTABLE" mean library is not supported
 
