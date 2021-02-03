@@ -3,7 +3,7 @@
 ## Descriptions
 - An EQ ported from OnePlus 8 Visible (IN2015).
 - It doesn't support ACDB module because using effect proxy.
-- Not working with dynamic partitions (except dolby dms 2.0 is already present in ROM manifest.xml)
+- Doesn't work with Read-Only build ROM and no space free left of system & vendor except dolby dms HIDL 2.0 is already present in ROM manifest.xml.
 
 ## Screenshots
 - [OPSoundTuner](https://t.me/modsandco/6844)
@@ -23,7 +23,7 @@
 - Reboot
 - If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (See Optional section)
 - Install via Magisk Manager or Recovery
-- Reboot
+- Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
 - If your ROM has Dolby in-built, or Dolby effects are not triggered, then you need to enable Dolby data clean-up for the first time. Run at Terminal Emulator before flashing
@@ -77,7 +77,8 @@
 
   `setprop` `dolby.force.permissive` `1`
 
-- If Dolby force close, just reinstall again
+- If Dolby force close, reboot twice (don't reflash). It's probably Magisk sepolicy.rule bug.
+- For dynamic partitions, you should use ROM which is RW build and at least 1 MB free left of system or vendor, such as LineageOS. Or just ask to your ROM builder to add dolby HIDL 2.0 to ROM manifest.xml.
 - Make sure manifest.xml is patched correctly
 - If anything goes wrong, see your logcats
   - "CANNOT LINK EXECUTABLE" mean library is not supported
