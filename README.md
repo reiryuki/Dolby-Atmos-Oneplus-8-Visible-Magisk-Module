@@ -23,6 +23,7 @@
 - Reboot
 - If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (See Optional section)
 - Install via Magisk Manager or Recovery
+- See "Optional" section it you using other audio mods
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
