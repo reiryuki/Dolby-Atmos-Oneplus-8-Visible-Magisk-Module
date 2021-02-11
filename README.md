@@ -26,77 +26,27 @@
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
-- If your ROM has Dolby in-built, or Dolby effects are not triggered, then you need to enable Dolby data clean-up for the first time. Run at Terminal Emulator before flashing
-  the module:
-
-  `su`
-
-  `setprop` `dolby.force.cleanup` `1`
-
-  After that, flash/reflash the module.
-
-- You can rename dax-default extension to .xml to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Rename another .xml to .mod. Delete /data/vendor/dolby/dax_sqlite3.db if there before reboot. 96 is a standard high bass.
-- You can use DaxUI instead of OPSoundTuner. To enable that, run at Terminal Emulator before flashing
-  the module:
-
-  `su`
-
-  `setprop` `dolby.force.daxui` `1`
-
-  After that, flash/reflash the module.
-
-- You can disable your in-built Dirac audio FX if you sure it's conflicting with Dolby. Run at Terminal Emulator before flashing
-  the module:
-
-  `su`
-
-  `setprop` `dolby.force.disable.dirac` `1`
-
-  After that, flash/reflash the module.
-
-- You can disable your in-built MI Sound FX if you sure it's conflicting with Dolby. Run at Terminal Emulator before flashing
-  the module:
-
-  `su`
-
-  `setprop` `dolby.force.disable.misoundfx` `1`
-
-  After that, flash/reflash the module.
+- [Tap here](https://t.me/audioryukimods/2616)
 
 ## Troubleshootings
-- If you want to enable OPSoundTuner dark mode while activating your dark theme, go to your Developer Settings, then turn on "Override force-dark".
-- If you got problem while connecting Bluetooth audio, then use DaxUI instead. See "Optional" section. Actually, OPSoundTuner is only for Bluetooth A2DP offload supported device.
-- If you using Riru EdXposed or Taichi Magisk Module, exclude Dolby apps from their list to prevent SE policy patch denials.
-- Install Audio Modification Library module if using multiple audio mods.
-- If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
-- If installation failed with error "Read-only file system" or "No space left on device", that is mean you using dynamic partitions.
-- If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
-  Run at Terminal Emulator before flash:
-
-  `su`
-
-  `setprop` `dolby.force.permissive` `1`
-
-- If Dolby force close, reboot twice (don't reflash). It's probably Magisk sepolicy.rule bug.
-- For dynamic partitions, you should use ROM which is RW build and at least 1 MB free left of system or vendor, such as LineageOS. Or just ask to your ROM builder to add dolby HIDL 2.0 to ROM manifest.xml.
-- Make sure manifest.xml is patched correctly
-- If anything goes wrong, see your logcats
-  - "CANNOT LINK EXECUTABLE" mean library is not supported
+- [Tap here](https://t.me/audioryukimods/2617)
 
 ## Report Guide
-- Send me full logcats using this app https://play.google.com/store/apps/details?id=com.dp.logcatapp
-- Send all "audio_effects" files in system/etc and vendor/etc
+- [Tap here](https://t.me/audioryukimods/2618)
 - If you don't do above, it will be closed immediately
 
 ## Credits
-- @aquahol for keysigner
-- @guitardedhero & @BanCodrut for module reference
-- @aip_x for helps
-- All of supports
+- @aquahol
+- @guitardedhero
+- @BanCodrut
+- @aip_x
 
 ## Telegram
 - https://t.me/audioryukimods
 - https://t.me/modsandco
+
+## Supports
+- [Tap here](https://t.me/audioryukimods/2619)
 
 ## Donate
 - https://www.paypal.me/reiryuki
