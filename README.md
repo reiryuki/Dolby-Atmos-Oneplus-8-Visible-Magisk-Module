@@ -41,6 +41,7 @@
 - @aquahol
 - @guitardedhero
 - @BanCodrut
+- @Foxtrot47
 - @aip_x
 
 ## Telegram
