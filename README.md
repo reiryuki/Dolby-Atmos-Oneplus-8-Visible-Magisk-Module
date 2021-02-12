@@ -16,6 +16,7 @@
 - Android 9, 10, or 11
 - 64 bit
 - Magisk installed
+- Bluetooth A2DP offload supported ROM (If not, see Optional to use DaxUI)
 
 ## Installation Guide
 - Don't use ACDB module!
