@@ -37,7 +37,7 @@
 - [Tap here](https://t.me/audioryukimods/2618)
 - If you don't do above, it will be closed immediately
 
-## Credits
+## Credits and Contributors
 - @aquahol
 - @guitardedhero
 - @BanCodrut
