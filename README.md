@@ -1,9 +1,8 @@
 # Dolby Atmos OnePlus 8 Visible Magisk Module
 
 ## Descriptions
-- An EQ ported from OnePlus 8 Visible (IN2015).
-- It doesn't support ACDB module because using effect proxy.
-- Doesn't work with Read-Only build ROM and no space free left of system & vendor except dolby dms HIDL 2.0 is already present in ROM manifest.xml.
+- An EQ ported from OnePlus 8 Visible (IN2015)
+- It doesn't support ACDB module because using effect proxy
 
 ## Screenshots
 - [OPSoundTuner](https://t.me/modsandco/6844)
@@ -48,7 +47,7 @@
 - https://t.me/audioryukimods
 - https://t.me/modsandco
 
-## Supports
+## Thanks for Supports
 - [Tap here](https://t.me/audioryukimods/2619)
 
 ## Donate
