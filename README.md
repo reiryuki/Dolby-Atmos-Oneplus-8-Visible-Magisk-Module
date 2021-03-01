@@ -27,13 +27,13 @@
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
-- [Tap here](https://t.me/audioryukimods/2616)
+- https://t.me/audioryukimods/2616
 
 ## Troubleshootings
-- [Tap here](https://t.me/audioryukimods/2617)
+- https://t.me/audioryukimods/2617
 
 ## Report Guide
-- [Tap here](https://t.me/audioryukimods/2618)
+- https://t.me/audioryukimods/2618
 - If you don't do above, it will be closed immediately
 
 ## Credits and Contributors
@@ -43,12 +43,8 @@
 - @Foxtrot47
 - @aip_x
 
-## Telegram
-- https://t.me/audioryukimods
-- https://t.me/modsandco
-
 ## Thanks for Supports
-- [Tap here](https://t.me/audioryukimods/2619)
+- https://t.me/audioryukimods/2619
 
 ## Donate
 - https://www.paypal.me/reiryuki
