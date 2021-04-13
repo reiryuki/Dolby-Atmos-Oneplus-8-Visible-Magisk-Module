@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An EQ ported from OnePlus 8 Visible (IN2015)
-- It doesn't support ACDB module because using effect proxy
+- Doesn't support ACDB module because using effect proxy
 
 ## Screenshots
 - [OPSoundTuner](https://t.me/modsandco/6844)
@@ -32,7 +32,7 @@
 ## Troubleshootings
 - https://t.me/audioryukimods/2617
 
-## Report Guide
+## Bug Report
 - https://t.me/audioryukimods/2618
 - If you don't do above, it will be closed immediately
 
@@ -43,10 +43,8 @@
 - @Foxtrot47
 - @aip_x
 
-## Thanks for Supports
+## Thanks for Donations
 - https://t.me/audioryukimods/2619
-
-## Donate
 - https://www.paypal.me/reiryuki
 
 
