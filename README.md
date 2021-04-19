@@ -17,6 +17,9 @@
 - Magisk installed
 - Bluetooth A2DP offload supported ROM (If not, see Optional to use DaxUI)
 
+## Warning!!!
+- Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
+
 ## Installation Guide
 - Don't use ACDB module!
 - Remove another Dolby module with different name
@@ -25,9 +28,6 @@
 - Install via Magisk Manager or Recovery
 - Install Audio Modification Library in Magisk download if using audio mods other than this
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
-
-## Warning!!!
-- Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
 
 ## Optional
 - https://t.me/audioryukimods/2616
