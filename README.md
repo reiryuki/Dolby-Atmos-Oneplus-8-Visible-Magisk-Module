@@ -26,6 +26,9 @@
 - Install Audio Modification Library in Magisk download if using audio mods other than this
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
+## Warning!!!
+- Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
+
 ## Optional
 - https://t.me/audioryukimods/2616
 
