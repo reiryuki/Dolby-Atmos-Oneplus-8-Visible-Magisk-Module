@@ -2,6 +2,7 @@
 
 ## Descriptions
 - An EQ ported from OnePlus 8 Visible (IN2015)
+- Global type soundfx
 - Doesn't support ACDB module because using effect proxy
 
 ## Screenshots
