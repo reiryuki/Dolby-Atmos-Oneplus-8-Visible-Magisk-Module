@@ -13,7 +13,7 @@
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
 ## Requirements
-- Android 9, 10, or 11
+- Android 9, 10, 11, or 12
 - 64 bit
 - Magisk installed
 - Bluetooth A2DP offload supported ROM (If not, see Optional to use DaxUI)
