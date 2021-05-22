@@ -13,10 +13,10 @@
 - Redmi 4A (rolex) CRDroid Lineage based ROM Android 10 arm64-v8a
 
 ## Requirements
-- Android 9, 10, 11, or 12
-- 64 bit
+- Android 9 until 12
+- 64 bit architecture
 - Magisk installed
-- Bluetooth A2DP offload supported ROM (If not, see Optional to use DaxUI)
+- Bluetooth A2DP offload supported ROM (If not supported, read Optional to use DaxUI)
 
 ## Warning!!!
 - Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
@@ -25,7 +25,7 @@
 - Don't use ACDB module!
 - Remove another Dolby module with different name
 - Reboot
-- If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (See Troubleshootings)
+- If your ROM has Dolby in-built, then you need to enable Dolby data clean-up for the first time (read Optional)
 - Install via Magisk Manager or Recovery
 - Install Audio Modification Library in Magisk download if using audio mods other than this
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
