@@ -6,7 +6,7 @@
 - Doesn't support ACDB module because using effect proxy
 
 ## Screenshots
-- [OPSoundTuner](https://t.me/modsandco/6844)
+- [OPSoundTuner](https://t.me/androidryukimods/68)
 - [DaxUI](https://t.me/audioryukimods/786)
 
 ## Tested on
